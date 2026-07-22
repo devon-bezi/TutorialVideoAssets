@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52dbafe895fce4605aa9ee2784bc6443, type: 3}
+  m_Name: IceCrystalSettings
+  m_EditorClassIdentifier: Assembly-CSharp::MaterialVariantSettings
+  baseColor: {r: 10.461665, g: 10.461665, b: 10.461665, a: 1}
+  alpha: 0.94
+  emissionColor: {r: 6.13441, g: 5.121654, b: 5.121654, a: 0}
+  gradientColor: {r: 0.38679248, g: 0.38679248, b: 0.38679248, a: 1}
+  gradientRange: {x: -1.46, y: 1.82}
+  gradientSoftness: 5.24
+  edgeColor: {r: 157.96498, g: 167.69904, b: 181.01933, a: 1}
+  edgeSoftness: 1.82
+  vornoiVarColor: {r: 0.20981668, g: 0.34289798, b: 0.38679248, a: 1}
+  vornoiVarAngleOffset: 12.84
+  vornoiVarCellDensity: 2.26
+  vornoiSoftness: 2.47
+  vornoiLevelRemap: {x: -0.08, y: 1.74}
+  amplitude: 20
+  steps: 3.98
+  tiling: {x: 1, y: 2}
+  offset: {x: 0, y: 0}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52dbafe895fce4605aa9ee2784bc6443, type: 3}
+  m_Name: FireCrystalSettings
+  m_EditorClassIdentifier: Assembly-CSharp::MaterialVariantSettings
+  baseColor: {r: 0.9528302, g: 0.20198244, b: 0, a: 1}
+  alpha: 0.52
+  emissionColor: {r: 9.189588, g: 1.9506203, b: 1.9506203, a: 0}
+  gradientColor: {r: 157.5865, g: 101.06314, b: 3.7166622, a: 1}
+  gradientRange: {x: 0.72, y: 1.62}
+  gradientSoftness: 4.21
+  edgeColor: {r: 581.27435, g: 194.49902, b: 0, a: 1}
+  edgeSoftness: 1.05
+  vornoiVarColor: {r: 4.0138025, g: 0.119123966, b: 0, a: 1}
+  vornoiVarAngleOffset: 6.19
+  vornoiVarCellDensity: 5.38
+  vornoiSoftness: 3.61
+  vornoiLevelRemap: {x: -0.02, y: 1.97}
+  amplitude: 36.93
+  steps: 2.8
+  tiling: {x: 2, y: 2}
+  offset: {x: 0, y: 0}
